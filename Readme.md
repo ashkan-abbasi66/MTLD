@@ -55,7 +55,7 @@ All of the codes run over a Windows operating system with a proper MATLAB instal
 
 **Requirements:**
 
-- Download sparsifying transform learning [1-3] package (`TSP2015ClosedformTL_code.zip`) from [here](http://transformlearning.csl.illinois.edu/software/).
+- Download the sparsifying transform learning [1-3] package (`TSP2015ClosedformTL_code.zip`) from [here](http://transformlearning.csl.illinois.edu/software/).
 - Extract the package in the `METHODS` folder. So, the path should be like this: `./METHODS/TSP2015ClosedformTL_code`
 
  
