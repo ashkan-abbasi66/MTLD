@@ -8,7 +8,7 @@ Ashkan Abbasi, Amirhassan Monadjemi, Leyuan Fang, Hossein Rabbani, Neda Noormoha
 
 ## Available Methods
 
-The code for running the following methods are available in this package. All the codes needed to run the methods are included except the sparsifying transform learning denoising package. 
+The code for running the following methods are available in this package. All the codes needed to run the methods are included except for the sparsifying transform learning denoising. 
 
 
 
