@@ -36,7 +36,7 @@ The code for running the following methods are available in this package. All th
 
 
 
-For PURE-LET, please refer to here.
+For PURE-LET, please refer to [here](https://github.com/yinhaoz/denoising-fluorescence/tree/master/denoising/matlab/_8_PURE-LET_).
 
 All of the codes run over a Windows operating system with a proper MATLAB installation. However, just  to let you know, we carried out our experiments using MATLAB R2019a over Windows 10. 
 
