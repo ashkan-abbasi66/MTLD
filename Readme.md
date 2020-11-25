@@ -4,7 +4,7 @@ This repository contains the code associated with the following paper:
 
 Ashkan Abbasi, Amirhassan Monadjemi, Leyuan Fang, Hossein Rabbani, Neda Noormohammadi, Yi Zhang, "Multiscale Sparsifying Transform Learning for Image Denoising," [ArXiv Prepr.](https://arxiv.org/abs/2003.11265), 2020.
 
-I am updating it in a few days.
+**I am updating this repository in a few days.**
 
 
 ## Available Methods
