@@ -4,6 +4,7 @@ This repository contains the code associated with the following paper:
 
 Ashkan Abbasi, Amirhassan Monadjemi, Leyuan Fang, Hossein Rabbani, Neda Noormohammadi, Yi Zhang, "Multiscale Sparsifying Transform Learning for Image Denoising," [ArXiv Prepr.](https://arxiv.org/abs/2003.11265), 2020.
 
+**NOTE: We will update the code soon to contain our mixing based multiscale extensions for SAIST. More specifically, MMSAIST and FMMSAIST will be released soon. 
 
 
 ## Available Methods
