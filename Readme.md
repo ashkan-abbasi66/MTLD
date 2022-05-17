@@ -1,3 +1,6 @@
+# Note:
+We will release our mixed multiscale BM4D denoising method for OCT images soon. Stay tuned ...
+
 # Multiscale Sparsifying Transform Learning for Image Denoising
 
 This repository contains the code associated with the following paper:
