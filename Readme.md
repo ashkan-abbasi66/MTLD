@@ -1,5 +1,5 @@
 # Note:
-We will release our mixed multiscale BM4D denoising method for OCT images soon. Stay tuned ...
+We will release our mixed multiscale BM4D denoising method for optical coherence tomography (OCT) images soon. Stay tuned ...
 
 # Multiscale Sparsifying Transform Learning for Image Denoising
 
